@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(15, 51, 151);
+}
+nav{
+    height: 70px;
+    background-color: rgba(253, 253, 253, 0);
+    border-radius: 0px 0px 10px 10px;
+    text-align: right;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+a{
+    text-decoration: none;
+  padding: 20px; 
+  color: rgb(255, 255, 255);
+}
+a:hover{
+   
+  border-bottom:2px rgb(0, 0, 0) solid ;
+    color: rgb(34, 78, 83);
+    
+}
+h1{
+    text-align: left;
+    font-size: 30px;
+    color: aliceblue;
+
+}
+h2{
+    padding: 200px 0px 0px 20px;
+    font-size: 40px;
+    color: aliceblue;
+
+}
+p{
+    padding-left: 20px;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+
+h3{
+    font-size: 50px;
+    padding-left: 50px;
+    color: aliceblue;
+}
+.im{
+    float: right;
+    padding-top: 70px;
+
+}
+.imm{
+    padding-top: 480px;
+   
+    
+}
+
+.immmw{
+    margin-left: 750px;
+    
+}
+
+
+ 
+
+
+   
+
+        
+   
+
+
